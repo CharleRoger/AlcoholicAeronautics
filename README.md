@@ -7,6 +7,7 @@ This is a mod for Kerbal Space Program which adds a collection of low-tech liqui
 ## Features
 ### Parts
 The mod contains nine engines which fall into three technological generations. If there is enough interest, two or three extra engines may be added in the future.
+![engines.png](https://raw.githubusercontent.com/CharleRoger/AlcoholicAeronautics/main/engines.png)
 #### First generation
 These engines cannot be throttled or shut down and have no intrinsic gimbal. Instead, an external housing with graphite jet vanes used to divert the exhaust can be optionally added for a small cost and mass. They also require an additional 1% of the total volumetric propellant flow rate in MonoPropellant, emulating the use of hydrogen peroxide in generating steam to drive the gas generator. Before external monopropellant tanks are unlocked, each first-generation engine is constrained by the amount of monopropellant it holds in its internal tank.
 - AA-1 "Rummer" Ethanol Engine — Based on the A-4/V-2 and Soviet derivative RD-100 used in the R-1 missile.
