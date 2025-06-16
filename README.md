@@ -1,4 +1,6 @@
 # Alcoholic Aeronautics
+![header.png](https://raw.githubusercontent.com/CharleRoger/AlcoholicAeronautics/main/header.png)
+
 This is a mod for Kerbal Space Program which adds a collection of low-tech liquid rocket engines which burn ethanol, based loosely on the real early history of rocketry. The intent is to provide an alternate liquid-fuelled start to the tech tree, based loosely on the real early history of rocketry, giving slightly slower early progression with a bit more depth. This mod was designed primarily to fit into the chemical-based technological progression of Chemical Propulsion, another one of my mods, but plays just fine as a stand-alone.
 
 ## Features
